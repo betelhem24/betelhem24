@@ -28,11 +28,11 @@ I am a passionate builder learning to create secure, real-time applications. I f
 
 ---
 
-## 📊 My GitHub Stats
+## 📊 My Profile Status
 <p align="center">
-  <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
-  <img src="https://img.shields.io/badge/Contributions-Welcome-blue.svg" />
-  <img src="https://img.shields.io/github/commits-since/betelhem24/betelhem24/main?label=Total%20Project%20Updates" />
+  <img src="https://img.shields.io/badge/Status-Actively%20Building-success?style=flat-square&color=2ea44f" />
+  <img src="https://img.shields.io/badge/Focus-Fullstack%20Development-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Learning-AI%20%26%20Machine%20Learning-orange?style=flat-square" />
 </p>
 
 <p align="center">
