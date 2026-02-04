@@ -31,8 +31,8 @@ I am a passionate builder learning to create secure, real-time applications. I f
 ## 📊 My Profile Status
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Actively%20Building-success?style=flat-square&color=2ea44f" />
-  <img src="https://img.shields.io/badge/Focus-Fullstack%20Web%20Development-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Current-Learning%20Every%20Day-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Fullstack%20Development-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Current-Learning%20new%20things%20Every%20Day-orange?style=flat-square" />
 </p>
 
 <p align="center">
