@@ -1,38 +1,38 @@
 # Hi 👋, I'm Betelhem!
 
 ### 🚀 Aspiring Fullstack Developer
-I am a passionate builder learning to create secure, real-time applications. I enjoy experimenting with the **MERN Stack**, **SQL**, and modern UI techniques like **Glassmorphism**.
+I am a passionate builder learning to create secure, real-time applications. I focus on creating beautiful, accessible user interfaces using **Glassmorphism** and robust backend architectures.
 
-- 🎓 **Capstone Project**: [FamEmergency](https://famemergency.vercel.app) — My final project focused on family safety and medical record management.
-- 🛠️ **Learning Journey**: Currently diving deep into **Socket.io** for real-time alerts and **Redux Toolkit** for state management.
-- 🤖 **Future Goals**: Exploring AI integration, Machine Learning, and Computer Vision.
+- 🎓 **Capstone Project**: [FamEmergency](https://famemergency.vercel.app) — A real-time family safety and medical records ecosystem.
+- 🛠️ **Current Focus**: Real-time communication with **Socket.io** and advanced state management with **Redux Toolkit**.
+- 🤖 **Future Goals**: Integrating ChatGPT/AI, Machine Learning, and Computer Vision into the safety pipeline.
 
 ---
 
 ## 💻 Tech I Am Using
 
 ### **Frontend & Design**
-- **Frameworks**: React 19, TypeScript, Tailwind CSS.
-- **UI Styling**: Implementing Glassmorphism using `backdrop-filter` and CSS Variables for custom themes.
-- **Data**: Building dashboards with **Recharts**.
+- **Core**: React 19, TypeScript, Tailwind CSS.
+- **UI/UX**: Advanced Glassmorphism (`backdrop-filter`), CSS Variables for Multi-mode Theming (Light/Dark/Blue).
+- **Visualization**: Data Dashboards using **Recharts** and **AnalyticsTab.tsx**.
 
 ### **Backend & Security**
-- **Server**: Node.js and Express.js REST APIs.
-- **Real-time**: Basic implementation of **Socket.io**.
-- **Auth**: Learning secure practices with **JWT** and **Bcrypt**.
+- **Server**: Node.js, Express.js, REST API design.
+- **Real-time**: Instant event handling via **Socket.io**.
+- **Auth**: Secure authentication using **JWT** and **Bcrypt** hashing.
 
 ### **Database & Tools**
-- **NoSQL**: MongoDB & Mongoose.
-- **SQL**: Exploring PostgreSQL via **Prisma ORM**.
-- **Media**: Image processing with **libvips**.
+- **NoSQL**: MongoDB & Mongoose for flexible data persistence.
+- **SQL**: PostgreSQL integration via **Prisma ORM** for structured data.
+- **Optimization**: Image processing with **libvips**.
 
 ---
----
+
 ## 📊 My GitHub Stats
 <p align="center">
   <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
   <img src="https://img.shields.io/badge/Contributions-Welcome-blue.svg" />
-  <img src="https://img.shields.io/github/commit-activity/m/betelhem24/betelhem24?color=tokyonight&label=Commit%20Activity" />
+  <img src="https://img.shields.io/github/commits-since/betelhem24/betelhem24/main?label=Total%20Project%20Updates" />
 </p>
 
 <p align="center">
@@ -40,4 +40,5 @@ I am a passionate builder learning to create secure, real-time applications. I e
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>>
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
+</p>
