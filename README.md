@@ -27,12 +27,13 @@ I am a passionate builder learning to create secure, real-time applications. I e
 - **Media**: Image processing with **libvips**.
 
 ---
+---
 
 ## 📊 My GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=betelhem24&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=betelhem24&show_icons=true&theme=tokyonight&cache_seconds=1800" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=betelhem24&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=betelhem24&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 <p align="center">
