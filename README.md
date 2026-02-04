@@ -28,12 +28,11 @@ I am a passionate builder learning to create secure, real-time applications. I e
 
 ---
 ---
-
 ## 📊 My GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=betelhem24&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=betelhem24&theme=tokyonight&cache_seconds=1800" />
+  <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
+  <img src="https://img.shields.io/badge/Contributions-Welcome-blue.svg" />
+  <img src="https://img.shields.io/github/commit-activity/m/betelhem24/betelhem24?color=tokyonight&label=Commit%20Activity" />
 </p>
 
 <p align="center">
@@ -41,4 +40,4 @@ I am a passionate builder learning to create secure, real-time applications. I e
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
+</p>>
